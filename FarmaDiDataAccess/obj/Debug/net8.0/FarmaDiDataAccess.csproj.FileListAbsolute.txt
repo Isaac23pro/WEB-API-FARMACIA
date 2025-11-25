@@ -1,0 +1,16 @@
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.csproj.AssemblyReference.cache
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.AssemblyInfoInputs.cache
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.AssemblyInfo.cs
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.sourcelink.json
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\bin\Debug\net8.0\FarmaDiDataAccess.deps.json
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\bin\Debug\net8.0\FarmaDiDataAccess.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\bin\Debug\net8.0\FarmaDiDataAccess.pdb
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\bin\Debug\net8.0\FarmaDiCore.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\bin\Debug\net8.0\FarmaDiCore.pdb
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiD.AD21EC59.Up2Date
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\refint\FarmaDiDataAccess.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\FarmaDiDataAccess.pdb
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiDataAccess\obj\Debug\net8.0\ref\FarmaDiDataAccess.dll

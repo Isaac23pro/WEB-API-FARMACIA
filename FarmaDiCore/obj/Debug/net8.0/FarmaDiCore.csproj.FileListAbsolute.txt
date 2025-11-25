@@ -1,0 +1,12 @@
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\bin\Debug\net8.0\FarmaDiCore.deps.json
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\bin\Debug\net8.0\FarmaDiCore.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\bin\Debug\net8.0\FarmaDiCore.pdb
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.AssemblyInfoInputs.cache
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.AssemblyInfo.cs
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.csproj.CoreCompileInputs.cache
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.sourcelink.json
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\refint\FarmaDiCore.dll
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\FarmaDiCore.pdb
+C:\Users\wrcme\Desktop\_\FarmaDiApi\FarmaDiCore\obj\Debug\net8.0\ref\FarmaDiCore.dll
